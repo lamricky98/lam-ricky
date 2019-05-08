@@ -1,1 +1,4 @@
-Help
+A card game called GOLF can be played by using these three java files.
+
+Place them together in the same folder and run the Golf.java file to play. Rules are included during the game.
+Enjoy!
