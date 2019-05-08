@@ -1,0 +1,15 @@
+FOR WINDOWS:
+
+1. Extract the folder.
+2. Run the Golf.bat file and the program will run inside a command console window!
+3. Rules are included inside the program itself, before it starts.
+
+FOR MAC:
+
+1. Extract the folder.
+2. Run the Golf.command file and the program will run inside a command console window!
+3. Rules are included inside the program itself, before it starts.
+
+You might run into some errors. Please make sure of the following first:
+You must have JDK installed. This will let your computer interpret and process java files.
+Look online for the latest version of JDK and install it before running the game.
