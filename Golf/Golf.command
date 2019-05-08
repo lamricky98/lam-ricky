@@ -1,3 +1,3 @@
 #!/bin/bash
-chmod 755 Golf.bat
-./Golf.bat
+chmod 755 Golf.jar
+java -jar %~dp0Golf.jar %*
