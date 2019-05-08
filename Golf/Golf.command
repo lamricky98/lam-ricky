@@ -1,3 +1,3 @@
 #!/bin/bash
-cd ~/Golf
-java -jar Golf.jar
+chmod 755 Golf.bat
+./Golf.bat
